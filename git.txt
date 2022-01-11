@@ -1,0 +1,3 @@
+Git 
+Token for OAuth:  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
+New repo local: git remote add origin "my_url _repo"
