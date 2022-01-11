@@ -1,0 +1,2 @@
+SSH COPY publick key to remote server
+command: ssh-copy-id root@server

@@ -1,0 +1,4 @@
+Mount disk without vfstype.
+mount /dev/sda1 ~/home
+sudo su
+tail -1 /etc/mtab >> /etc/fstab
