@@ -1,0 +1,4 @@
+Форматирование флешки с устновкой.
+1) umount /dev/sdb
+2) mkfs -t ext4 -L fleshka /dev/sdb
+3) dd if=~/path/to/iso of=path/to/device bs=5M status=progress
